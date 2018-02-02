@@ -1,0 +1,20 @@
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWS.SessionProvider.dll
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.Core.dll
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.DynamoDBv2.dll
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.S3.dll
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWS.SessionProvider.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.Core.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.Core.xml
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.DynamoDBv2.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.DynamoDBv2.xml
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.S3.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\AWSSDK.S3.xml
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Release\S3 File Upload Wizard.csproj.GenerateResource.Cache
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\S3 File Upload Wizard.exe.config
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\S3 File Upload Wizard.exe
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Release\S3 File Upload Wizard.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Release\S3FileUploadWizard.frmLoadFileToS3.resources
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Release\S3 File Upload Wizard.exe
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Release\S3 File Upload Wizard.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Release\S3FileUploadWizard.Properties.Resources.resources
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Release\S3 File Upload Wizard.csprojResolveAssemblyReference.cache

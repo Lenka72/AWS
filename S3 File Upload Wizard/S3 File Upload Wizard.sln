@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3 File Upload Wizard", "S3 File Upload Wizard\S3 File Upload Wizard.csproj", "{3A2FBB9C-F08E-4015-B2C1-717FF125D168}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "S3 File Upload Wizard Installer", "S3 File Upload Wizard Installer\S3 File Upload Wizard Installer.vdproj", "{9F13281C-A63B-4CAB-91B1-E90EC2E48951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2FBB9C-F08E-4015-B2C1-717FF125D168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2FBB9C-F08E-4015-B2C1-717FF125D168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2FBB9C-F08E-4015-B2C1-717FF125D168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2FBB9C-F08E-4015-B2C1-717FF125D168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F13281C-A63B-4CAB-91B1-E90EC2E48951}.Debug|Any CPU.ActiveCfg = Debug
+		{9F13281C-A63B-4CAB-91B1-E90EC2E48951}.Release|Any CPU.ActiveCfg = Release
+		{9F13281C-A63B-4CAB-91B1-E90EC2E48951}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

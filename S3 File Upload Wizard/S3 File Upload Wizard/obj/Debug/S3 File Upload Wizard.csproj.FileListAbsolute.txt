@@ -1,0 +1,60 @@
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWS.SessionProvider.dll
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.Core.dll
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.DynamoDBv2.dll
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.S3.dll
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWS.SessionProvider.pdb
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.Core.pdb
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.Core.xml
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.DynamoDBv2.pdb
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.DynamoDBv2.xml
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.S3.pdb
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\AWSSDK.S3.xml
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\S3 File Upload Wizard.csprojResolveAssemblyReference.cache
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.frmLoadFileToS3.resources
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\S3 File Upload Wizard.csproj.GenerateResource.Cache
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+M:\IT\Projects\Valuations\AWS\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWS.SessionProvider.dll
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.Core.dll
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.DynamoDBv2.dll
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.S3.dll
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWS.SessionProvider.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.Core.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.Core.xml
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.DynamoDBv2.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.DynamoDBv2.xml
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.S3.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.S3.xml
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3 File Upload Wizard.csprojResolveAssemblyReference.cache
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3 File Upload Wizard.csproj.GenerateResource.Cache
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\S3 File Upload Wizard.exe.config
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\S3 File Upload Wizard.exe
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\S3 File Upload Wizard.pdb
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3FileUploadWizard.frmLoadFileToS3.resources
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3FileUploadWizard.Properties.Resources.resources
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3 File Upload Wizard.exe
+M:\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3 File Upload Wizard.pdb
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\S3 File Upload Wizard.exe.config
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3 File Upload Wizard.exe
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3 File Upload Wizard.pdb
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\S3 File Upload Wizard.exe
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\S3 File Upload Wizard.pdb
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWS.SessionProvider.dll
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.Core.dll
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.DynamoDBv2.dll
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.S3.dll
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWS.SessionProvider.pdb
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.Core.pdb
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.Core.xml
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.DynamoDBv2.pdb
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.DynamoDBv2.xml
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.S3.pdb
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\bin\Debug\AWSSDK.S3.xml
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3 File Upload Wizard.csprojResolveAssemblyReference.cache
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3FileUploadWizard.frmLoadFileToS3.resources
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3FileUploadWizard.Properties.Resources.resources
+\\pnmac.com\fileserver\Departments\IT\Projects\Valuations\AWS\S3 File Upload Wizard\S3 File Upload Wizard\obj\Debug\S3 File Upload Wizard.csproj.GenerateResource.Cache
